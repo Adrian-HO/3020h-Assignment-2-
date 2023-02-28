@@ -1,0 +1,6 @@
+C:\Users\kiera\Desktop\Trent\third_year\winter_2023\COIS 3020H\Asingment 2\assignment 2 part A\assignment 2 part A\bin\Debug\assignment 2 part A.exe.config
+C:\Users\kiera\Desktop\Trent\third_year\winter_2023\COIS 3020H\Asingment 2\assignment 2 part A\assignment 2 part A\bin\Debug\assignment 2 part A.exe
+C:\Users\kiera\Desktop\Trent\third_year\winter_2023\COIS 3020H\Asingment 2\assignment 2 part A\assignment 2 part A\bin\Debug\assignment 2 part A.pdb
+C:\Users\kiera\Desktop\Trent\third_year\winter_2023\COIS 3020H\Asingment 2\assignment 2 part A\assignment 2 part A\obj\Debug\assignment 2 part A.csprojResolveAssemblyReference.cache
+C:\Users\kiera\Desktop\Trent\third_year\winter_2023\COIS 3020H\Asingment 2\assignment 2 part A\assignment 2 part A\obj\Debug\assignment 2 part A.exe
+C:\Users\kiera\Desktop\Trent\third_year\winter_2023\COIS 3020H\Asingment 2\assignment 2 part A\assignment 2 part A\obj\Debug\assignment 2 part A.pdb
