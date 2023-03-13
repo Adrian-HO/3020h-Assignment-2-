@@ -139,7 +139,7 @@ namespace partC
         public void Add(T item)
         {
             Root = Add(item, Root);
-            Root.UpdateMinMax();
+            // Root.UpdateMinMax();
         }
 
         // Add 
@@ -158,6 +158,14 @@ namespace partC
                 cmp = item.CompareTo(root.Item);
                 if (cmp > 0)
                 {
+                    //code to compare gap
+                    int gap = Math.Abs((int)(object)root.Item - (int)(object)item);
+                    if (gap < root.MinGap)
+                    {
+                        root.MinGap = gap; //update minimum gap
+
+                    }
+
                     root.Right = Add(item, root.Right);       // Move right
                     if (root.Right.Priority > root.Priority)  // Rotate left
                         root = LeftRotate(root);              // (if necessary)
@@ -165,6 +173,11 @@ namespace partC
                 }
                 else if (cmp < 0)
                 {
+                    //code to compare gap
+                    int gap = Math.Abs((int)(object)item - (int)(object)root.Item);
+                    if (gap < root.MinGap)
+                        root.MinGap = gap; //update minimum gap
+
                     root.Left = Add(item, root.Left);         // Move left
                     if (root.Left.Priority > root.Priority)   // Rotate right
                         root = RightRotate(root);             // (if necessary)
@@ -293,6 +306,10 @@ namespace partC
             return minGap;
         }
 
+        public int GetMinGape()
+        {
+            return Root.MinGap;
+        }
 
         // Contains
         // Returns true if the given item is found in the Treap; false otherwise
@@ -409,12 +426,12 @@ namespace partC
             Treap<int> B = new Treap<int>();
 
             for (int i = 0; i < 5; i++)
-             B.Add(V.Next(10, 50));     // Add random integers from 10 to 99
-           // B.Add(41);
-           // B.Add(19);
-           // B.Add(16);
-           // B.Add(24);
-           // B.Add(14);
+                B.Add(V.Next(10, 50));     // Add random integers from 10 to 99
+                                           // B.Add(41);
+                                           // B.Add(19);
+                                           // B.Add(16);
+                                           // B.Add(24);
+                                           // B.Add(14);
 
             B.Print();
 
@@ -425,6 +442,7 @@ namespace partC
             Console.WriteLine("Contains 42        : " + B.Contains(42));
             Console.WriteLine("Contains 68        : " + B.Contains(68));
             Console.WriteLine("MinGap of the Treap: " + B.MinGap());
+            Console.WriteLine("O(log(n)): " + B.GetMinGape());
 
             Console.ReadLine();
 
