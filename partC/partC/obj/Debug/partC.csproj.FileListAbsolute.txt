@@ -1,0 +1,8 @@
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\partC\partC\bin\Debug\partC.exe.config
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\partC\partC\bin\Debug\partC.exe
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\partC\partC\bin\Debug\partC.pdb
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\partC\partC\obj\Debug\partC.csproj.AssemblyReference.cache
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\partC\partC\obj\Debug\partC.csproj.SuggestedBindingRedirects.cache
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\partC\partC\obj\Debug\partC.csproj.CoreCompileInputs.cache
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\partC\partC\obj\Debug\partC.exe
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\partC\partC\obj\Debug\partC.pdb
