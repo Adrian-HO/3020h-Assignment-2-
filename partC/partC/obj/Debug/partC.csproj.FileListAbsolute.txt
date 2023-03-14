@@ -14,3 +14,11 @@ C:\Users\User\Desktop\3020h-Assignment-2-\partC\partC\obj\Debug\partC.csproj.Sug
 C:\Users\User\Desktop\3020h-Assignment-2-\partC\partC\obj\Debug\partC.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\3020h-Assignment-2-\partC\partC\obj\Debug\partC.exe
 C:\Users\User\Desktop\3020h-Assignment-2-\partC\partC\obj\Debug\partC.pdb
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\3020h-Assignment-2-\partC\partC\bin\Debug\partC.exe.config
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\3020h-Assignment-2-\partC\partC\bin\Debug\partC.exe
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\3020h-Assignment-2-\partC\partC\bin\Debug\partC.pdb
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\3020h-Assignment-2-\partC\partC\obj\Debug\partC.csproj.AssemblyReference.cache
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\3020h-Assignment-2-\partC\partC\obj\Debug\partC.csproj.SuggestedBindingRedirects.cache
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\3020h-Assignment-2-\partC\partC\obj\Debug\partC.csproj.CoreCompileInputs.cache
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\3020h-Assignment-2-\partC\partC\obj\Debug\partC.exe
+C:\Users\akfh9\OneDrive\Desktop\3020 assignments\3020h-Assignment-2-\partC\partC\obj\Debug\partC.pdb
